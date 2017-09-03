@@ -6,7 +6,7 @@ simple python web scraper
 # revisits
 https://docs.python.org/3.5/tutorial/index.html
 
-will be usiong python 3 to build this . earlier experiences with python will help. Easy syntax. 
+will be using python 3 to build this . earlier experiences with python will help. Easy syntax. 
 Use this to build the web scraper for ingredients in recipes.
 
 # source 
