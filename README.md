@@ -13,6 +13,12 @@ Use this to build the web scraper for ingredients in recipes.
 
 ndtv food. Pretty huge dataset. Need to remove duplicates and need to crawl into webpages as well.
 
+# using beautiful soup
+
+documentation
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+
 # database type
 
 csv vs relational db ?
