@@ -23,5 +23,9 @@ https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 csv vs relational db ?
 
+# ended up using scrappy
+
+
+
 
 
